@@ -104,7 +104,7 @@ export const PRODUCTS: ProductItem[] = [
     id: "prod-2",
     title: "Executive Crest Gift Box",
     category: "Corporate Gift Packs",
-    description: "Our bespoke dark leatherette chocolate boxes, presenting customized logo-stamped Belgian chocolate blocks accompanied by dynamic pralines.",
+    description: "https://files.catbox.moe/bxjlhs.jpg",
     priceEstimate: "$65.00",
     image: CORPORE_BOX_IMAGE,
     tags: ["Corporate", "Custom Logo", "Bespoke"]
@@ -142,7 +142,7 @@ export const PRODUCTS: ProductItem[] = [
     category: "Premium Chocolate Hampers",
     description: "The peak of grand gifting: containing 2 full truffle boxes, chocolate dragées, organic hazelnut spread, hot chocolate stirrer sticks, and fine cookies.",
     priceEstimate: "$120.00",
-    image: "https://images.unsplash.com/photo-1526081347589-7fa3cb36b312?auto=format&fit=crop&q=80&w=600",
+    image: "https://files.catbox.moe/l7l2i2.jpg",
     tags: ["Hamper", "Luxury", "Ultimate Gift"]
   }
 ];
