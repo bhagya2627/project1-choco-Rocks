@@ -263,7 +263,7 @@ export default function CustomBoxBuilder({ onApplyConfig }: CustomBoxBuilderProp
               </button>
             </div>
           </div>
-
+          
           <div>
             <span className="text-xs font-mono tracking-wider text-choco-medium uppercase block mb-2.5">
               Step 4: Premium Velvet Wrapper
@@ -294,7 +294,6 @@ export default function CustomBoxBuilder({ onApplyConfig }: CustomBoxBuilderProp
             </div>
           </div>
         </div>
-
         {/* Right Pricing Estimator & CTA: 3 Columns */}
         <div className="lg:col-span-3 flex flex-col justify-between bg-choco-cream/50 p-5 rounded-2xl border border-choco-beige/40">
           <div className="space-y-4">

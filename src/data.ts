@@ -97,7 +97,7 @@ export const PRODUCTS: ProductItem[] = [
     category: "Luxury Chocolate Boxes",
     description: "An array of our 16 legendary handcrafted pralines featuring sea-salt caramel, golden hazelnut, raspberry ruby, and grand cru dark ganache.",
     priceEstimate: "$45.00",
-    image: HERO_IMAGE,
+    image: "https://files.catbox.moe/hlzaoz.png",
     tags: ["Signature", "Best Seller", "Artisan"]
   },
   {
@@ -115,7 +115,7 @@ export const PRODUCTS: ProductItem[] = [
     category: "Wedding Favors",
     description: "Dainty dual-piece custom drawers wrapped with silk golden ropes, containing rose-infused ivory ganaches customized with couple initials.",
     priceEstimate: "$6.50 / unit",
-    image: "https://images.unsplash.com/photo-1548907040-4d42b52125e0?auto=format&fit=crop&q=80&w=600",
+    image: "https://files.catbox.moe/0xvz2b.jpg",
     tags: ["Wedding", "Pearls", "Monogram"]
   },
   {
@@ -133,7 +133,7 @@ export const PRODUCTS: ProductItem[] = [
     category: "Festive Collections",
     description: "Holiday-themed spiced truffles, cinnamon dark logs, and gold-dusted chocolate pinecones in an elegant collector box.",
     priceEstimate: "$38.00",
-    image: "https://images.unsplash.com/photo-1604514281729-19ec011d1ebc?auto=format&fit=crop&q=80&w=600",
+    image: "https://files.catbox.moe/ljvec9.jpg",
     tags: ["Festive", "Gold Dusted", "Holiday"]
   },
   {

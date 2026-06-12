@@ -44,7 +44,7 @@ const renderLIcon = (name: string, className = "w-6 h-6 text-choco-gold") => {
   }
 };
 
-export default function App() {
+export default function Bhagi() {
   // Website States
   const [loading, setLoading] = useState<boolean>(true);
   const [themeMode, setThemeMode] = useState<ThemeMode>('classic-cream');
